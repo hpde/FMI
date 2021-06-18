@@ -3,7 +3,7 @@
 
 # FMI
 
-Finish Meterological Institute (FMI) - Space and Earth Observation Centre
+Finnish Meterological Institute (FMI) - Space and Earth Observation Centre
 
 Visit the [website](https://space.fmi.fi/) [https://space.fmi.fi/]
 
